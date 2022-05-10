@@ -41,6 +41,9 @@ const imformation = { name, password, email };
                     <div>
                         <button onClick={require}>signin</button>
                     </div>
+                    <div>
+                        <button on
+                    </div>
                 </div>
             </form>
         </div>
